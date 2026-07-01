@@ -125,7 +125,5 @@ go test ./...
 
  
 ### Unit Tests Passing
-![Unit Tests Passing](screenshots/tests.png)
- 
-### Running with Docker
-![Running with Docker](screenshots/docker.png)
+<img width="816" height="190" alt="image" src="https://github.com/user-attachments/assets/f0797870-604b-4614-97d3-76230e1b6d86" />
+
