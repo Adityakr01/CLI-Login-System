@@ -108,7 +108,7 @@ go test ./...
 ### User Details After Login
 <img width="745" height="263" alt="image" src="https://github.com/user-attachments/assets/22067623-7da2-4166-975d-eb3d2cce33d1" />
 
-###help after login
+### Help after login
 <img width="946" height="342" alt="image" src="https://github.com/user-attachments/assets/290ee96c-b7fc-4e9b-a481-0d701fb79976" />
 
  
