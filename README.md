@@ -98,3 +98,41 @@ docker-compose.yml     - docker run config
 ```bash
 go test ./...
 ```
+## Screenshots
+ <img width="762" height="378" alt="image" src="https://github.com/user-attachments/assets/52c58d49-2848-4da5-a15a-a38cad13908d" />
+
+ 
+### User Registration
+<img width="745" height="263" alt="image" src="https://github.com/user-attachments/assets/22067623-7da2-4166-975d-eb3d2cce33d1" />
+
+ 
+### User Login
+![Uploading image.png…]()
+
+ 
+### User Details After Login
+![User Details After Login](screenshots/whoami.png)
+ 
+### 2FA Setup Screen
+![2FA Setup Screen](screenshots/enable-2fa.png)
+ 
+### Google Authenticator Code
+![Google Authenticator Code](screenshots/google-authenticator.png)
+ 
+### Login with 2FA Code
+![Login with 2FA Code](screenshots/login-2fa.png)
+ 
+### Disable 2FA
+![Disable 2FA](screenshots/disable-2fa.png)
+ 
+### User Logout
+![User Logout](screenshots/logout.png)
+ 
+### Account Locked After 5 Failed Attempts
+![Account Locked](screenshots/account-locked.png)
+ 
+### Unit Tests Passing
+![Unit Tests Passing](screenshots/tests.png)
+ 
+### Running with Docker
+![Running with Docker](screenshots/docker.png)
