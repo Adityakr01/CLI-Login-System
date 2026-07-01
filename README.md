@@ -99,37 +99,30 @@ docker-compose.yml     - docker run config
 go test ./...
 ```
 ## Screenshots
- <img width="762" height="378" alt="image" src="https://github.com/user-attachments/assets/52c58d49-2848-4da5-a15a-a38cad13908d" />
-
+ 
  
 ### User Registration
-<img width="745" height="263" alt="image" src="https://github.com/user-attachments/assets/22067623-7da2-4166-975d-eb3d2cce33d1" />
-
- 
-### User Login
-![Uploading image.png…]()
+<img width="762" height="378" alt="image" src="https://github.com/user-attachments/assets/52c58d49-2848-4da5-a15a-a38cad13908d" />
 
  
 ### User Details After Login
-![User Details After Login](screenshots/whoami.png)
+<img width="745" height="263" alt="image" src="https://github.com/user-attachments/assets/22067623-7da2-4166-975d-eb3d2cce33d1" />
+
+###help after login
+<img width="946" height="342" alt="image" src="https://github.com/user-attachments/assets/290ee96c-b7fc-4e9b-a481-0d701fb79976" />
+
  
 ### 2FA Setup Screen
-![2FA Setup Screen](screenshots/enable-2fa.png)
- 
-### Google Authenticator Code
-![Google Authenticator Code](screenshots/google-authenticator.png)
- 
-### Login with 2FA Code
-![Login with 2FA Code](screenshots/login-2fa.png)
- 
-### Disable 2FA
-![Disable 2FA](screenshots/disable-2fa.png)
+<img width="1347" height="127" alt="image" src="https://github.com/user-attachments/assets/6b275e29-76d8-49e1-a9d9-3f5860f22637" />
+
  
 ### User Logout
-![User Logout](screenshots/logout.png)
+<img width="280" height="71" alt="image" src="https://github.com/user-attachments/assets/468c52d4-a9e8-486e-a943-b4c16cb02cc7" />
+
  
 ### Account Locked After 5 Failed Attempts
-![Account Locked](screenshots/account-locked.png)
+<img width="1245" height="507" alt="image" src="https://github.com/user-attachments/assets/d524e401-1229-4d58-aed9-cc5d5d7bb0c1" />
+
  
 ### Unit Tests Passing
 ![Unit Tests Passing](screenshots/tests.png)
